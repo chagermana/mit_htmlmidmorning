@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="58b4f42d-92d9-4c39-9eb5-fdba7e854cd3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Manvin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about us.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browserconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contactss.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/divs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/TOC.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/css.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/extend.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/faq.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/html.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/js.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/misc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/usage.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcss.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/humans.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Netflix_2015_logo.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/background.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/book.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/canvas painting.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/class.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/clock.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/clockss.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/design.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/download.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enroll_button.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/food.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/football.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/friendly.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/games.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/home.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/index.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/minions-minion.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/money.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mosai bird.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/naruto-background.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/number.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/orange.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/p.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/photography.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/porsche.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pottery.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/py charm icon.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/road.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/smile.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/subhome_iconos_animados.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/watermelon.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/zfpi0114.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intake.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduction.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/vendor/modernizr-3.11.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navigation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tile-wide.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/token/tokens" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website assignment.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KApgTfZ8N5BMv8xu0hMK4Xth4L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58b4f42d-92d9-4c39-9eb5-fdba7e854cd3" name="Changes" comment="" />
+      <created>1673427359265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673427359265</updated>
+      <workItem from="1673427366981" duration="81000" />
+      <workItem from="1673427456545" duration="12000" />
+      <workItem from="1673427530336" duration="606000" />
+      <workItem from="1673429026093" duration="1206000" />
+      <workItem from="1673509220270" duration="10000" />
+      <workItem from="1673596940622" duration="8770000" />
+      <workItem from="1673606225547" duration="26000" />
+      <workItem from="1673843364033" duration="839000" />
+      <workItem from="1673855732107" duration="7520000" />
+      <workItem from="1673863845247" duration="1665000" />
+      <workItem from="1673929899189" duration="14000" />
+      <workItem from="1673942614153" duration="9469000" />
+      <workItem from="1674029700189" duration="8046000" />
+      <workItem from="1674115290287" duration="9147000" />
+      <workItem from="1674136341914" duration="54000" />
+      <workItem from="1674201451364" duration="638000" />
+      <workItem from="1674202705045" duration="774000" />
+      <workItem from="1674460983020" duration="36000" />
+      <workItem from="1674461039531" duration="31000" />
+      <workItem from="1674461108145" duration="222000" />
+      <workItem from="1674461350050" duration="9495000" />
+      <workItem from="1674471563471" duration="62000" />
+      <workItem from="1674547763723" duration="9216000" />
+      <workItem from="1674558240472" duration="66000" />
+      <workItem from="1674558782872" duration="249000" />
+      <workItem from="1674559437742" duration="4991000" />
+      <workItem from="1674624789199" duration="14000" />
+      <workItem from="1674636061210" duration="1984000" />
+      <workItem from="1674643851601" duration="133000" />
+      <workItem from="1674720626830" duration="3175000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
