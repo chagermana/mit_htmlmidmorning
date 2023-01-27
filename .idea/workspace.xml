@@ -5,98 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58b4f42d-92d9-4c39-9eb5-fdba7e854cd3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Manvin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tables.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/about us.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/browserconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contactss.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courses.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/divs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/TOC.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/css.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/extend.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/faq.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/html.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/js.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/misc.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/usage.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmlcss.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/humans.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Netflix_2015_logo.svg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/background.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/book.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/canvas painting.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/class.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/clock.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/clockss.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/design.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/download.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/enroll_button.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/food.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/football.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/friendly.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/games.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/home.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/minions-minion.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/money.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/mosai bird.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/naruto-background.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/number.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/orange.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/p.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/photography.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/porsche.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pottery.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/py charm icon.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/road.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/smile.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/subhome_iconos_animados.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/watermelon.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/zfpi0114.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intake.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/introduction.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/plugins.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/vendor/modernizr-3.11.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/links.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/navigation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site.webmanifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/student.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tile-wide.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/token/tokens" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website assignment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new file.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +89,9 @@
       <workItem from="1674624789199" duration="14000" />
       <workItem from="1674636061210" duration="1984000" />
       <workItem from="1674643851601" duration="133000" />
-      <workItem from="1674720626830" duration="3175000" />
+      <workItem from="1674720626830" duration="6560000" />
+      <workItem from="1674730739998" duration="18000" />
+      <workItem from="1674807655661" duration="2563000" />
     </task>
     <servers />
   </component>
